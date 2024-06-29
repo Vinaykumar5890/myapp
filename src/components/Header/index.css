@@ -1,0 +1,32 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.event {
+  background-color: #f0f0f0;
+  padding: 10px;
+  border-radius: 5px;
+}
+.headerHeading {
+  color: #000000;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 30px;
+}
+.headerParagraph{
+  color: #000000;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 20px;
+}
+.BsFire {
+  color: yellow;
+  background-color: transparent;
+  height: 34px;
+  width: 34px;
+  border-radius: 20px;
+  padding-top: 10px;
+}

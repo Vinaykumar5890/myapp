@@ -1,0 +1,10 @@
+.main-content {
+  background-color: #ffffff;
+  height: 78vh;
+  width: 70vw;
+}
+
+.schedule,
+.leaderboard {
+  width: 100%;
+}
